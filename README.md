@@ -2,7 +2,8 @@
 
 A web gallery that showcases images with accompanying text. You can click on each image to expand it and reveal additional text. As you expand one image, the others automatically shrink to fit on the screen.
 
-![Flex Panel Gallery Preview](screenshot.png)
+![Flex Panel Gallery Preview](https://github.com/somayehva/Flex-Panel-Gallery/blob/main/Flex%20Panel%20Gallery.png)
+
 
 ## Table of Contents
 - [Demo](#demo)
