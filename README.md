@@ -28,24 +28,7 @@ You can try the live demo [here](link-to-your-live-demo).
 - **Image Gallery**: Display a collection of images with associated text.
 - **Interactive Panels**: Click on an image to expand it, revealing additional text.
 - **Responsive Layout**: As one image expands, the others shrink to fit on the screen, maintaining a visually appealing layout.
-- **Customizable**: Easily customize the content of each panel with your images and text.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/flex-panel-gallery.git
-
-## Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them.
-- Push your changes to your fork.
-- Submit a pull request.
-- Please make sure to follow the code of conduct.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
