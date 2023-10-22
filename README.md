@@ -5,17 +5,9 @@ A web gallery that showcases images with accompanying text. You can click on eac
 ![Flex Panel Gallery Preview](https://github.com/somayehva/Flex-Panel-Gallery/blob/main/Flex%20Panel%20Gallery.png)
 
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/flex-panel-gallery/).
 
 ## Technologies Used
 
@@ -31,4 +23,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
